@@ -1,3 +1,5 @@
+#Data_Modeler
+
 1.  Schema: This project uses a Star Schema. Sales_Fact is the main
     table, and all dimension tables (Customer, Product, Region, Date)
     are connected to it.
